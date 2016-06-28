@@ -20,7 +20,7 @@
     if (self) {
         // Custom initialization
         NSString *a = @"1";
-        NSString *b = @"2";
+        NSString *b = @"3";
     }
     return self;
 }

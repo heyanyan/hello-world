@@ -18,7 +18,8 @@
     [self.window addSubview:v.view];
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
-    NSString *a = @"123";
+    NSString *a = @"1233333";
+    
     return YES;
 }
 

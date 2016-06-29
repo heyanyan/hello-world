@@ -21,7 +21,7 @@
         // Custom initialization
         NSString *a = @"1";
         NSString  *b = @"2";
-        
+        NSString *c = @"3";
     }
     return self;
 }
